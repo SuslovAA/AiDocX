@@ -1,0 +1,17 @@
+C:\Users\Kot\Desktop\code\AiDocX\AiDocX\bin\Debug\net8.0\AiDocX.exe
+C:\Users\Kot\Desktop\code\AiDocX\AiDocX\bin\Debug\net8.0\AiDocX.deps.json
+C:\Users\Kot\Desktop\code\AiDocX\AiDocX\bin\Debug\net8.0\AiDocX.runtimeconfig.json
+C:\Users\Kot\Desktop\code\AiDocX\AiDocX\bin\Debug\net8.0\AiDocX.dll
+C:\Users\Kot\Desktop\code\AiDocX\AiDocX\bin\Debug\net8.0\AiDocX.pdb
+C:\Users\Kot\Desktop\code\AiDocX\AiDocX\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Kot\Desktop\code\AiDocX\AiDocX\obj\Debug\net8.0\AiDocX.csproj.AssemblyReference.cache
+C:\Users\Kot\Desktop\code\AiDocX\AiDocX\obj\Debug\net8.0\AiDocX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kot\Desktop\code\AiDocX\AiDocX\obj\Debug\net8.0\AiDocX.AssemblyInfoInputs.cache
+C:\Users\Kot\Desktop\code\AiDocX\AiDocX\obj\Debug\net8.0\AiDocX.AssemblyInfo.cs
+C:\Users\Kot\Desktop\code\AiDocX\AiDocX\obj\Debug\net8.0\AiDocX.csproj.CoreCompileInputs.cache
+C:\Users\Kot\Desktop\code\AiDocX\AiDocX\obj\Debug\net8.0\AiDocX.csproj.Up2Date
+C:\Users\Kot\Desktop\code\AiDocX\AiDocX\obj\Debug\net8.0\AiDocX.dll
+C:\Users\Kot\Desktop\code\AiDocX\AiDocX\obj\Debug\net8.0\refint\AiDocX.dll
+C:\Users\Kot\Desktop\code\AiDocX\AiDocX\obj\Debug\net8.0\AiDocX.pdb
+C:\Users\Kot\Desktop\code\AiDocX\AiDocX\obj\Debug\net8.0\AiDocX.genruntimeconfig.cache
+C:\Users\Kot\Desktop\code\AiDocX\AiDocX\obj\Debug\net8.0\ref\AiDocX.dll
