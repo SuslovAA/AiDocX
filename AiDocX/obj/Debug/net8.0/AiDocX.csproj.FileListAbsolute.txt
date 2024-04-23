@@ -15,3 +15,4 @@ C:\Users\Kot\Desktop\code\AiDocX\AiDocX\obj\Debug\net8.0\refint\AiDocX.dll
 C:\Users\Kot\Desktop\code\AiDocX\AiDocX\obj\Debug\net8.0\AiDocX.pdb
 C:\Users\Kot\Desktop\code\AiDocX\AiDocX\obj\Debug\net8.0\AiDocX.genruntimeconfig.cache
 C:\Users\Kot\Desktop\code\AiDocX\AiDocX\obj\Debug\net8.0\ref\AiDocX.dll
+C:\Users\Kot\Desktop\code\AiDocX\AiDocX\obj\Debug\net8.0\AiDocX.sourcelink.json
